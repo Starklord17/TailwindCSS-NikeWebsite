@@ -13,7 +13,8 @@
 `npx tailwindcss init -p`
 
 ## Process
-https://youtu.be/tS7upsfuxmo?t=3954
+1:17
+https://youtu.be/tS7upsfuxmo?t=4641
 
 
 ---
