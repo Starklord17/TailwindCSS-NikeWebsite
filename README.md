@@ -14,7 +14,8 @@
 
 ## Process
 1:17
-https://youtu.be/tS7upsfuxmo?t=4641
+1:38:31 / 2:49:56
+https://youtu.be/tS7upsfuxmo?t=5911
 
 
 ---
