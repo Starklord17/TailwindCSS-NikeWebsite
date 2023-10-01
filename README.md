@@ -32,3 +32,6 @@ You can always return to this page by clicking “Learn” in Developer Tools > 
 - https://github.com/ElGafasTrading/ScriptLCD
 - https://docs.python.org/3.11/index.html
 - https://docs.python.org/3.11/tutorial/index.html
+
+https://www.youtube.com/watch?v=RkjsHWvUnSc&t=0s
+https://github.com/chaincodelabs/bitcoin-tx-tutorial
