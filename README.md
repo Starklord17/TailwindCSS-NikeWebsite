@@ -35,3 +35,5 @@ You can always return to this page by clicking “Learn” in Developer Tools > 
 
 https://www.youtube.com/watch?v=RkjsHWvUnSc&t=0s
 https://github.com/chaincodelabs/bitcoin-tx-tutorial
+
+https://www.hablemoss.com/how-it-works/
