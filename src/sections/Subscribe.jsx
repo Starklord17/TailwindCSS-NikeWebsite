@@ -1,5 +1,13 @@
 import { Button } from "../components";
 
+/**
+ * The Subscribe component renders a section with a heading, an input field, and a button for signing
+ * up for updates and newsletters.
+ * @returns The Subscribe component is returning a section element with the id 'contact-us' and the
+ * classes 'max-container', 'flex', 'justify-between', 'items-center', 'max-lg:flex-col', and 'gap-10'.
+ * Inside the section, there is an h3 element with the classes 'text-4xl', 'leading-[68px]',
+ * 'lg:max-w-md', 'font-palan
+ */
 const Subscribe = () => {
   return (
     <section
