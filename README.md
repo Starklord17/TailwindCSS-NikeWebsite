@@ -12,29 +12,4 @@
 
 `npx tailwindcss init -p`
 
-## Process
-1:17
-1:38:31 / 2:49:56
-https://youtu.be/tS7upsfuxmo?t=5911
-
-
----
-
-## Prompt Engineering
-
-- https://catalog.us-east-1.prod.workshops.aws/workshops/6838a1a5-4516-4153-90ce-ac49ca8e1357/en-US/03-getting-started/03-02-prompts
-
-You can always return to this page by clicking “Learn” in Developer Tools > CodeWhisperer
-
----
-
-### Other Notes
-
-- https://github.com/ElGafasTrading/ScriptLCD
-- https://docs.python.org/3.11/index.html
-- https://docs.python.org/3.11/tutorial/index.html
-
-https://www.youtube.com/watch?v=RkjsHWvUnSc&t=0s
-https://github.com/chaincodelabs/bitcoin-tx-tutorial
-
-https://www.hablemoss.com/how-it-works/
+## JavaScript Mastery
