@@ -7,6 +7,8 @@ const Button = ({
   fullWidth,
 }) => {
   return (
+    /* The `className` attribute in the `<button>` element is using template literals to dynamically
+    generate the CSS classes based on the provided props. */
     <button
       className={`flex justify-center items-center gap-2 px-7 py-4 border font-montserrat text-lg leading-none
       ${
